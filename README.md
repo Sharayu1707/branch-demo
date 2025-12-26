@@ -1,5 +1,3 @@
-# branch-demo
-
 ## Overview
 
 Git branches allow you to work on different versions of a project simultaneously. 
